@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Travel List App in React.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A little front-end app that helps you keep track of items you need to pack, and gives to the ability to cross them off after packing.
 
 ## Available Scripts
 
